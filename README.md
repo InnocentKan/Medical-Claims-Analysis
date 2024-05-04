@@ -1,2 +1,1 @@
-# Medical-Claims-Analysis
-Project 3
+This project will analyze medical claims data to pinpoint the most prominent cost drivers within this context. Furthermore, I will examine how costs might vary across locations, insurance providers, and different medical conditions. This analysis aims to generate  actionable insights to inform  targeted cost reduction efforts.
